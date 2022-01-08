@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9eba55e6-6f70-42dd-9f26-62ad008f3189" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-11.0.11.9-hotspot/lib/src.zip!/java.base/java/lang/Double.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1x7jWnWemDh04vuWQu1tUyktEQf" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/stdlib.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Svana\IdeaProjects\HelloWorld\Vika8" />
+      <recent name="C:\Users\Svana\IdeaProjects\HelloWorld\Vika10" />
+      <recent name="C:\Users\Svana\IdeaProjects\HelloWorld\Vika11" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Sqrt">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Add" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Add" />
+      <module name="Vika6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aha" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Aha" />
+      <module name="Vika9" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Almenna" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Almenna" />
+      <module name="Vika9" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Andhverfa" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Andhverfa" />
+      <module name="Vika10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Annarhvor" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Annarhvor" />
+      <module name="Vika13" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bernoulli" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bernoulli" />
+      <module name="Vika8" />
+      <option name="PROGRAM_PARAMETERS" value="32 1000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Charge" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Charge" />
+      <module name="Vika12" />
+      <option name="PROGRAM_PARAMETERS" value="0.42 0.71" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ChargeTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ChargeTest" />
+      <module name="Vika12" />
+      <option name="PROGRAM_PARAMETERS" value="0.42 0.71" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ColorBrot" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ColorBrot" />
+      <module name="Vika11" />
+      <option name="PROGRAM_PARAMETERS" value="32 256" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ColorMandelbrot" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ColorMandelbrot" />
+      <module name="Vika11" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Complex" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Complex" />
+      <module name="Vika11" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Counter" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Counter" />
+      <module name="Vika12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Daginn" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Daginn" />
+      <module name="Vika2" />
+      <option name="PROGRAM_PARAMETERS" value="Siggi Gunna" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dalur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Dalur" />
+      <module name="Vika5" />
+      <option name="PROGRAM_PARAMETERS" value="5 2 2 2 3 4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DifferentiableFunction" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DifferentiableFunction" />
+      <module name="Vika14" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DiscreteProfun" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DiscreteProfun" />
+      <module name="Vika8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Eftirnafn" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Eftirnafn" />
+      <module name="HelloWorld" />
+      <option name="PROGRAM_PARAMETERS" value="Charlie Watts" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Einkunn" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Einkunn" />
+      <module name="Vika11" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EinkunnVika12" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EinkunnVika12" />
+      <module name="Vika12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Einkunnir" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Einkunnir" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="-3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EinkunnirSwitch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EinkunnirSwitch" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ErStaerra" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ErStaerra" />
+      <module name="Vika3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
+      <module name="Vika10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FilterOut" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FilterOut" />
+      <module name="Vika6" />
+      <option name="PROGRAM_PARAMETERS" value="1.5 2.8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flip" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Flip" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Fri" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Fri" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="K" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Fylki" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Fylki" />
+      <module name="Vika7" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HSumma" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HSumma" />
+      <module name="Vika6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HaeHoHi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HaeHoHi" />
+      <module name="Vika12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Haegri" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Haegri" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HalloHeimurLambda" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HalloHeimurLambda" />
+      <module name="Vika13" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HalloTolur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HalloTolur" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HangandiElse" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HangandiElse" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="200" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="HelloWorld" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hringir" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Hringir" />
+      <module name="Vika6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InnaksturBannadur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="InnaksturBannadur" />
+      <module name="Vika6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InnanMarka" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="InnanMarka" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="5.5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Innfeldi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Innfeldi" />
+      <module name="Vika3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Innlestur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Innlestur" />
+      <module name="Vika7" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kassar" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Kassar" />
+      <module name="Vika4" />
+      <option name="PROGRAM_PARAMETERS" value="2 10 100" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kosningar" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Kosningar" />
+      <module name="Vika8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Krossgata" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Krossgata" />
+      <module name="Vika7" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lag" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lag" />
+      <module name="Vika11" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Leggja" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Leggja" />
+      <module name="Vika6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Leit" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Leit" />
+      <module name="Vika10" />
+      <option name="PROGRAM_PARAMETERS" value="nemendur.txt @" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ListiDeilanleg" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ListiDeilanleg" />
+      <module name="Vika9" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LoftG" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LoftG" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="0.8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lokaeinkunn" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lokaeinkunn" />
+      <module name="Vika5" />
+      <option name="PROGRAM_PARAMETERS" value="5 6 4 4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Maeling" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Maeling" />
+      <module name="Vika11" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Malverk" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Malverk" />
+      <module name="Vika10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Margfeldi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Margfeldi" />
+      <module name="Vika5" />
+      <option name="PROGRAM_PARAMETERS" value="2 4 6 8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Max" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Max" />
+      <module name="Vika4" />
+      <option name="PROGRAM_PARAMETERS" value="0.2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Minni" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Minni" />
+      <module name="Vika9" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MinnstaMidja" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MinnstaMidja" />
+      <module name="Vika2" />
+      <option name="PROGRAM_PARAMETERS" value="9 3 10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Myllur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Myllur" />
+      <module name="Vika4" />
+      <option name="PROGRAM_PARAMETERS" value="6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Myndtriangle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Myndtriangle" />
+      <module name="Vika6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nemandi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Nemandi" />
+      <module name="Vika11" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nemendaskra" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Nemendaskra" />
+      <module name="Vika12" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Newton" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Newton" />
+      <module name="Vika7" />
+      <option name="PROGRAM_PARAMETERS" value="-1 4 16" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Positive2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Positive2" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="2 -1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PowerOfTwo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PowerOfTwo" />
+      <module name="Vika4" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Printnum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Printnum" />
+      <module name="Vika9" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pyramid" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Pyramid" />
+      <module name="Vika13" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReadArray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ReadArray" />
+      <module name="Vika8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Reikna" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Reikna" />
+      <module name="Vika2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReiknaSekt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ReiknaSekt" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="25.0 30.0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Reiknivel" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Reiknivel" />
+      <module name="Vika9" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Rikisstjorn" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Rikisstjorn" />
+      <module name="Vika5" />
+      <option name="PROGRAM_PARAMETERS" value="9 7 15 3 5 3 6 8 7 32 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Runa" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Runa" />
+      <module name="Vika4" />
+      <option name="PROGRAM_PARAMETERS" value="7" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Samanburdur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Samanburdur" />
+      <module name="Vika13" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sivalningur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Sivalningur" />
+      <module name="Vika2" />
+      <option name="PROGRAM_PARAMETERS" value="1.5 3.0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sjonvarp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Sjonvarp" />
+      <module name="Vika13" />
+      <option name="PROGRAM_PARAMETERS" value="dagskra.txt 1 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Slembi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Slembi" />
+      <module name="Vika4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SpilAHendi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SpilAHendi" />
+      <module name="Vika12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SpilR" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SpilR" />
+      <module name="Vika12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sqrt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Sqrt" />
+      <module name="Vika14" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Square" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Square" />
+      <module name="Vika11" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stafaruna" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Stafaruna" />
+      <module name="Vika2" />
+      <option name="PROGRAM_PARAMETERS" value="97 1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stafir" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Stafir" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="100 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stjornukassi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Stjornukassi" />
+      <module name="Vika4" />
+      <option name="PROGRAM_PARAMETERS" value="5 10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stjornur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Stjornur" />
+      <module name="Vika7" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stokka" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Stokka" />
+      <module name="Vika5" />
+      <option name="PROGRAM_PARAMETERS" value="4 8 12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stopwatch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Stopwatch" />
+      <module name="Vika11" />
+      <option name="PROGRAM_PARAMETERS" value="100000000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Strengjavinnsla" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Strengjavinnsla" />
+      <module name="Vika10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Styring" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Styring" />
+      <module name="Vika13" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SuluDemo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SuluDemo" />
+      <module name="Vika8" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sulurit" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Sulurit" />
+      <module name="Vika8" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Summa" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Summa" />
+      <module name="Vika7" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tekk" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Tekk" />
+      <module name="Vika13" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TenHellos" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TenHellos" />
+      <module name="Vika4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Teningur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Teningur" />
+      <module name="Vika4" />
+      <option name="PROGRAM_PARAMETERS" value="6 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestSqrt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TestSqrt" />
+      <module name="Vika4" />
+      <option name="PROGRAM_PARAMETERS" value="4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Testa" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Testa" />
+      <module name="Vika3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tolur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Tolur" />
+      <module name="HelloWorld" />
+      <option name="PROGRAM_PARAMETERS" value="5 10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tre" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Tre" />
+      <module name="Vika9" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Triangle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Triangle" />
+      <module name="Vika4" />
+      <option name="PROGRAM_PARAMETERS" value="6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Turtle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Turtle" />
+      <module name="Vika11" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TvoOrd" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TvoOrd" />
+      <module name="Vika7" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Undan" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Undan" />
+      <module name="Vika2" />
+      <option name="PROGRAM_PARAMETERS" value="1 1 1999 1 1 2021" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UseArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseArgument" />
+      <module name="HelloWorld" />
+      <option name="PROGRAM_PARAMETERS" value="Sigrún Hákon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UseArguments" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="UseArguments" />
+      <module name="HelloWorld" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Vari" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Vari" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="V V 6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Vaxtavextir" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Vaxtavextir" />
+      <module name="Vika2" />
+      <option name="PROGRAM_PARAMETERS" value="100000.0 -0.5 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Vindur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Vindur" />
+      <module name="Vika3" />
+      <option name="PROGRAM_PARAMETERS" value="29" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YmisMath" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="YmisMath" />
+      <module name="Vika7" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UseArgument" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
