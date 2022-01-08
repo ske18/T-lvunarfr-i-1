@@ -24,10 +24,14 @@
     <toolWindowToFront>false</toolWindowToFront>
   </component>
   <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/Vika5/Dalur.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vika5/Rikisstjorn.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="jar://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-11.0.11.9-hotspot/lib/src.zip!/java.base/java/lang/Double.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vika6/Hringir.java" root0="FORCE_HIGHLIGHTING" />
+=======
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-11.0.11.9-hotspot/lib/src.zip!/java.base/java/lang/Double.java" root0="FORCE_HIGHLIGHTING" />
+>>>>>>> 17a6ad5 (First commit)
   </component>
   <component name="ProjectId" id="1x7jWnWemDh04vuWQu1tUyktEQf" />
   <component name="ProjectViewState">
